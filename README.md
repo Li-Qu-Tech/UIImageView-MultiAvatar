@@ -11,3 +11,5 @@
 ```
 
 ### 效果图
+
+![群聊头衔](https://github.com/Li-Qu-Tech/UIImageView-MultiAvatar/groupAvatar.jpeg)
