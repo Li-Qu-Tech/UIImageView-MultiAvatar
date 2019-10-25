@@ -15,6 +15,7 @@
 		E838E1062362D6EE007475FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E838E1042362D6EE007475FD /* LaunchScreen.storyboard */; };
 		E838E1092362D6EE007475FD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E838E1082362D6EE007475FD /* main.m */; };
 		E838E1122362D749007475FD /* UIImageView+MultiAvatar.m in Sources */ = {isa = PBXBuildFile; fileRef = E838E1112362D749007475FD /* UIImageView+MultiAvatar.m */; };
+		E838E1142362E0DD007475FD /* groupAvatar.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E838E1132362E0DD007475FD /* groupAvatar.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		E838E1082362D6EE007475FD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		E838E1102362D749007475FD /* UIImageView+MultiAvatar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+MultiAvatar.h"; sourceTree = "<group>"; };
 		E838E1112362D749007475FD /* UIImageView+MultiAvatar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+MultiAvatar.m"; sourceTree = "<group>"; };
+		E838E1132362E0DD007475FD /* groupAvatar.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = groupAvatar.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				E838E0F72362D6EC007475FD /* AppDelegate.m */,
 				E838E0FC2362D6EC007475FD /* ViewController.h */,
 				E838E0FD2362D6EC007475FD /* ViewController.m */,
+				E838E1132362E0DD007475FD /* groupAvatar.jpeg */,
 				E838E10F2362D73D007475FD /* UIImageView+MultiAvatar */,
 				E838E0FF2362D6EC007475FD /* Main.storyboard */,
 				E838E1022362D6EE007475FD /* Assets.xcassets */,
@@ -167,6 +170,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E838E1142362E0DD007475FD /* groupAvatar.jpeg in Resources */,
 				E838E1062362D6EE007475FD /* LaunchScreen.storyboard in Resources */,
 				E838E1032362D6EE007475FD /* Assets.xcassets in Resources */,
 				E838E1012362D6EC007475FD /* Main.storyboard in Resources */,
