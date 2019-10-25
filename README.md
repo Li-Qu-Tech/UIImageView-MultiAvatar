@@ -8,7 +8,6 @@
 
 ```
 [avatar ht_setImageWithURLStrArr:imageUrlStrArr];
-
 ```
 
 ### 效果图
