@@ -89,7 +89,7 @@
     //群头像大小
     CGSize avatarSize = CGSizeMake(121*kWidthScale, 121*kWidthScale);
     
-    UIGraphicsBeginImageContext(avatarSize);
+    UIGraphicsBeginImageContextWithOptions(avatarSize, NO, [UIScreen mainScreen].scale);
     
     CGContextRef context = UIGraphicsGetCurrentContext();
     //背景色
