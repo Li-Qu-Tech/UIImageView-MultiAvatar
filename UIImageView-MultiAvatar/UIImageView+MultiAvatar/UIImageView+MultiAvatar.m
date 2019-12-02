@@ -91,6 +91,12 @@
     
     UIGraphicsBeginImageContext(avatarSize);
     
+    CGContextRef context = UIGraphicsGetCurrentContext();
+    //背景色
+    UIColor *bgColor = [[UIColor blackColor] colorWithAlphaComponent:0.1];
+    CGContextSetFillColorWithColor(context, bgColor.CGColor);
+    CGContextFillRect(context, CGRectMake(0, 0, 121*kWidthScale, 121*kWidthScale));
+    
     //获取每个小头像的rect
     NSArray *rectArr = [self calculateEachRectWithCount:arr.count];
     
