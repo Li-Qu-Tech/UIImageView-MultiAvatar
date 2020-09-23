@@ -2,7 +2,7 @@
 //  UIImageView+MultiAvatar.h
 //  ZtCampus
 //
-//  Created by hongtu on 2019/10/24.
+//  Created by xx on 2019/10/24.
 //  Copyright © 2019 hongtu. All rights reserved.
 //
 
